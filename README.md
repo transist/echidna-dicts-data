@@ -9,5 +9,5 @@ No license dicts
 
 MIT LICENSE dict
 
-* [chars.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/chars.dic)
-* [words.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/words.dic)
+* [chars.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/chars.dic) (used)
+* [words.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/words.dic) (used)
