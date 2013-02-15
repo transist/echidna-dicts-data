@@ -11,3 +11,7 @@ MIT LICENSE dict
 
 * [chars.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/chars.dic) (used)
 * [words.dic](https://github.com/pluskid/rmmseg-cpp/blob/master/data/words.dic) (used)
+
+SOUGOU LICENSE dict
+
+* [http://www.sogou.com/labs/dl/w.html](http://www.sogou.com/labs/dl/w.html) (unused, need to pay for business)
