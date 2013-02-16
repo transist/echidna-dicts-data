@@ -7,6 +7,7 @@ No license dicts
 * [synonyms.txt](http://ishare.iask.sina.com.cn/f/15171861.html) (unused)
 * [modern_chinese_dict_5_edition.doc](http://ishare.iask.sina.com.cn/f/20263056.html) (unused)
 * [chinese_stopwords.txt](http://www.docin.com/p-245995667.html) (used)
+* [Mandarin.dat](https://github.com/fayland/perl-lingua-han/tree/master/Lingua-Han-PinYin) (used)
 
 MIT LICENSE dict
 
