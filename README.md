@@ -1,7 +1,7 @@
 echidna-dicts-data
 ==================
 
-No license dicts
+We do not have licenses for the following; if we build a commercial system, we need to obtain the license.
 
 * [10000_synonyms.txt](http://ishare.iask.sina.com.cn/f/14164101.html) (used)
 * [synonyms.txt](http://ishare.iask.sina.com.cn/f/15171861.html) (unused)
